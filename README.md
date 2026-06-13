@@ -1,6 +1,3 @@
-
-# Weather Temperature Prediction
-
 This is a beginner Machine Learning project built using Python and Scikit-Learn.
 
 ## Features
@@ -19,3 +16,6 @@ This is a beginner Machine Learning project built using Python and Scikit-Learn.
 
 ## Author
 Prem Pratap
+=======
+# Weather-Temperature-Prediction
+Weather Temperature Prediction using Linear Regression, Pandas, Matplotlib, and Scikit-Learn.
